@@ -8,18 +8,18 @@ function ImageGallery() {
             src: '/images/cuts.png', // Replace with your image URLs
             caption: 'Image 1',
         },
-        {
-            src: '/images/curtandcrew.jpg',
-            caption: 'Image 2',
-        },
-        {
-            src: '/images/chillen.jpg',
-            caption: 'Image 2',
-        },
-        {
-            src: '/images/kidscut.jpg',
-            caption: 'Image 2',
-        },
+        // {
+        //     src: '/images/curtandcrew.jpg',
+        //     caption: 'Image 2',
+        // },
+        // {
+        //     src: '/images/chillen.jpg',
+        //     caption: 'Image 2',
+        // },
+        // {
+        //     src: '/images/kidscut.jpg',
+        //     caption: 'Image 2',
+        // },
         {
             src: '/images/photo1b.jpg.crdownload',
             caption: 'Image 2',
