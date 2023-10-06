@@ -47,7 +47,7 @@ function Booking() {
                                     src="https://calendly.com/fourmarz"
                                     style={{
                                         width: '100%',
-                                        height: '580px', // Adjust the height as needed
+                                        height: '380px', // Adjust the height as needed
                                         border: 'none',
                                     }}
                                     allow="camera; microphone; fullscreen; autoplay"
