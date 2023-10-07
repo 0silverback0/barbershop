@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <p>&copy; {new Date().getFullYear()} Westend Barbershop</p>
+                        <p>&copy; {new Date().getFullYear()} Westend Barbershop II</p>
                     </div>
                     <div className="col-md-6 text-md-end">
                         <p>Web Development by DesignNDev</p>

@@ -2,24 +2,13 @@ import React from 'react';
 import Gallery from 'react-responsive-gallery';
 
 function ImageGallery() {
-    // Define an array of image objects with src and caption properties
+   
     const images = [
         {
-            src: '/images/cuts.png', // Replace with your image URLs
+            src: '/images/cuts.png',
             caption: 'Image 1',
         },
-        // {
-        //     src: '/images/curtandcrew.jpg',
-        //     caption: 'Image 2',
-        // },
-        // {
-        //     src: '/images/chillen.jpg',
-        //     caption: 'Image 2',
-        // },
-        // {
-        //     src: '/images/kidscut.jpg',
-        //     caption: 'Image 2',
-        // },
+       
         {
             src: '/images/photo1b.jpg.crdownload',
             caption: 'Image 2',

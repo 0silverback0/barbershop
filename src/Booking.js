@@ -32,7 +32,7 @@ import React from 'react';
 
 function Booking() {
     return (
-        <div className="container mt-5">
+        <div id='book' className="container mt-5">
             <div className="row">
                 <div className="col-md-6 offset-md-3">
                     <div className="card">
