@@ -14,10 +14,10 @@ function Booking() {
                             <div className="calendly-container">
                                 <iframe
                                     title="Calendly"
-                                    src="https://calendly.com/fourmarz"
+                                    src="https://calendly.com/westendbarbershop2/30min"
                                     style={{
                                         width: '100%',
-                                        height: '380px', // Adjust the height as needed
+                                        height: '380px',
                                         border: 'none',
                                     }}
                                     allow="camera; microphone; fullscreen; autoplay"

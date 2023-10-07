@@ -9,7 +9,7 @@ function Footer() {
                         <p>&copy; {new Date().getFullYear()} Westend Barbershop II</p>
                     </div>
                     <div className="col-md-6 text-md-end">
-                        <p>Web Development by DesignNDev</p>
+                        <p><i>Web Development by Marcell</i></p>
                     </div>
                 </div>
             </div>
